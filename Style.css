@@ -1,0 +1,134 @@
+*{font-family: 'Times New Roman', Times, serif;margin-left: 0px; margin-right: 0px;}
+.firstdiv{background-color:rgba(49,49,223,0.795);text-align: center; padding: 10px 40px 0px 40px;}
+button{float: right; padding: 5px;margin-right: 10px;}
+.quotes{ display: inline-block; color: white; padding-bottom: 10px;margin: 5px; font-size: 17px;} 
+.social{width: 30px;height: 30px;float: left; margin-left: 9px;}
+.twitter{width: 25px;height: 25px;float: left; margin-left: 9px; padding-top: 4px;}
+.instagram{width: 25px;height: 25px;float: left; margin-left: 9px; padding-top: 4px;}
+.saylani{ height: 80px; width: 270px; vertical-align: middle;}
+.home{ color: white; background-color: rgba(37, 37, 192, 0.884); margin-left: 400px; padding: 9px; font-size: 18px; text-decoration: none ; border-radius: 27px; border-spacing: 5px; }
+.link{color: black; padding: 9px; font-size: 18px; text-decoration: none ; border-spacing: 5px; }
+a.link:hover{background-color: rgba(37, 37, 192, 0.884);  border-radius: 27px; color: white}
+.health{ height: 400px;  width: 1330px;}
+.intro{background-color: whitesmoke;margin-bottom: -0px;padding-bottom: 20px; }
+.info{background-color: rgba(67, 67, 245, 0.856);height: 30px;margin: 0px 10px;}
+.infop{padding-top: 2px;}
+.noone{color: rgb(5, 110, 5);}
+.notwo{color: white;}
+.more{color: blue;}
+.h{ text-align: center; font-size: 30px;}
+.introp{ padding: 10px 95px; text-align: justify; font-size: 15px; padding-bottom: 10px; line-height: 1.2cm;}
+#intro{ color: blue;}
+#duction {color: green; }
+#circle{ height: 40px; width: 40px;}
+#line{ padding-left: 600px; color: green; }
+.div{background-color: blue; height: 400px;display: flex; flex-direction: row; text-align: center; margin: 0px; padding-top: 0px;}
+#facts1,#facts2, #facts3, #facts4 {margin: auto;padding: 60px; }
+h1{color: white;font-size: 45px ; padding-top: -260px;}
+#stats{color: white; padding: -30px;}
+#food, #family, #medical, #education{ width: 50px; height: 50px; }
+.green{ color: green;}
+#w{color: blue;}
+#a{color: green;}
+#what{ color: blue;}
+#doing {color: green; }
+.what{justify-content: center;background-color: whitesmoke; height: 700px; margin-top: 0px;padding-top: 50px;}
+#doing1, #doing2{flex-direction: row;display: flex; justify-content: space-around; margin-bottom: 30px; }
+#dh{color: blue; text-align: center;}
+#di{height: 50px; width: 50px; margin-left: auto; margin-right: auto; display: block;}
+#d1, #d2{background-color: white; width: 350px; height: 150px; box-shadow: 0px 0px 5px  grey;  padding-top: 30px;}
+.ep{display: flex; flex-direction: row; justify-content:left;}
+#mi{height: 40px; width: 40px;}
+.mission1, .mission2{flex-direction: row; display: flex; margin-bottom: 30px; }
+#md1, #md2{background-color: whitesmoke; width: 400px; height: 80px; box-shadow: 0px 0px 5px white; padding-top: 20px; margin-left: 25px;}
+#mh1{margin-left: 40px;}
+#mh2{ display:inline-block; padding-left: 25px;}
+#he1{text-align: center; padding-right: 170px;}
+.mission{height: 300px; width: 900px;}
+.events{text-align: justify; padding: 0px 100px 0px 30px ;height: 300px;}
+#line2{border-top: 3px solid green; width: 2cm;}
+.IG{height: 150px; width: 260px;}
+#image{margin-top: 30px;padding-top: 50px;}
+.information{display: flex;flex-direction: row; margin-top: 150px; padding-top: 70px; padding-left: 40px; padding-right: 70px;  justify-content: space-between; background-color: rgb(49, 48, 48); color: white ;}
+.address{font-size: 20px; line-height: 35px; width: 600px;}
+#usefullink{width: 600px;}
+.contact{width: 400px;}
+#fblogocircle{ height: 28px; width: 45px; }
+#instalogocircle{height: 28px; width: 30px;}
+#twitterlogocircle{ height: 28px; width: 35px;}
+#youtubelogocircle{ height: 28px; width: 35px;}
+.call, .message, .web{height: 20px; width: 20px;}
+.footer{background-color: rgba(27, 27, 233, 0.856); color: white; height: 35px; margin-top: 0px;padding-top: 10px;  padding-left: 10px;}
+
+.navbar{display: flex; flex-direction: row;}
+.ni{height: 70px; width: 150px;}
+.home, .navmedia, .navnews{text-decoration: none; color: black;}
+.home:hover{color: white; text-decoration: none;}
+.home{ text-decoration: none; background-color: rgba(37, 37, 192, 0.884);  border-radius: 207px; color: white; padding:  10px 10px;}
+.navnews:hover{ text-decoration: none; background-color: rgba(37, 37, 192, 0.884);  border-radius: 207px; color: white; padding: 10px 10px;}
+.navmedia:hover{ text-decoration: none; background-color: rgba(37, 37, 192, 0.884);  border-radius: 207px; color: white; padding: 10px 10px;}
+.navmedia{margin-right: 15px;}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: visible;
+   }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+  background-color: rgba(37, 37, 192, 0.884); color: white
+  }
+  .dropbtn{text-decoration: none; color: black;}
+  li.dropdown {
+    display: inline-block;
+  }
+  .dropbtn:hover{ text-decoration: none; background-color: rgba(37, 37, 192, 0.884);  border-radius: 207px; color: white;border-spacing: 150px; }
+  .dropbtn{padding: 5px 5px; font-size: 18px; text-decoration: none ; border-spacing: 5px;}
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: blue;color: white;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  ul{padding: 5px; float: right; margin-top: 5px;margin-right: 70px; }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+#myBtn {
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 18.5%;
+    left: 94.25%;
+    max-width: 30px;
+    width: 100%;
+    font-size: 25px;
+    border-color: rgba(85, 85, 85, 0.2);
+    background-color: blue;
+    padding: .5px;
+    border-radius: 6px;}
